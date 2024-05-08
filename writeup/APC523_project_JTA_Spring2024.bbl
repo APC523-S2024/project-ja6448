@@ -1,0 +1,182 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{allen1972ground}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e4a9dcea5f85e3161a0f589cc1034dd9}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Samuel\bibnamedelima Miller},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=52dbce452736c579ce3afd0bc41401e2}{%
+           family={Cahn},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{8e84d0ed8f32c32f82f370e3ddbc12d5}
+      \strng{fullhash}{8e84d0ed8f32c32f82f370e3ddbc12d5}
+      \strng{bibnamehash}{8e84d0ed8f32c32f82f370e3ddbc12d5}
+      \strng{authorbibnamehash}{8e84d0ed8f32c32f82f370e3ddbc12d5}
+      \strng{authornamehash}{8e84d0ed8f32c32f82f370e3ddbc12d5}
+      \strng{authorfullhash}{8e84d0ed8f32c32f82f370e3ddbc12d5}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Metallurgica}
+      \field{number}{3}
+      \field{title}{Ground state structures in ordered binary alloys with second neighbor interactions}
+      \field{volume}{20}
+      \field{year}{1972}
+      \field{pages}{423\bibrangedash 433}
+      \range{pages}{11}
+    \endentry
+    \entry{allen1973correction}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0cd31a7528d8e790235de448e0d745ae}{%
+           family={Allen},
+           familyi={A\bibinitperiod},
+           given={Samuel\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=52dbce452736c579ce3afd0bc41401e2}{%
+           family={Cahn},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b0b750cc348955e0ee07189b570adf2e}
+      \strng{fullhash}{b0b750cc348955e0ee07189b570adf2e}
+      \strng{bibnamehash}{b0b750cc348955e0ee07189b570adf2e}
+      \strng{authorbibnamehash}{b0b750cc348955e0ee07189b570adf2e}
+      \strng{authornamehash}{b0b750cc348955e0ee07189b570adf2e}
+      \strng{authorfullhash}{b0b750cc348955e0ee07189b570adf2e}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scripta Metallurgica}
+      \field{number}{12}
+      \field{title}{A correction to the ground state of fcc binary ordered alloys with first and second neighbor pairwise interactions}
+      \field{volume}{7}
+      \field{year}{1973}
+      \field{pages}{1261\bibrangedash 1264}
+      \range{pages}{4}
+    \endentry
+    \entry{biner2017programming}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2909048d6f8f5785285e691f989b472b}{%
+           family={Biner},
+           familyi={B\bibinitperiod},
+           given={S\bibnamedelima Bulent},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{2909048d6f8f5785285e691f989b472b}
+      \strng{fullhash}{2909048d6f8f5785285e691f989b472b}
+      \strng{bibnamehash}{2909048d6f8f5785285e691f989b472b}
+      \strng{authorbibnamehash}{2909048d6f8f5785285e691f989b472b}
+      \strng{authornamehash}{2909048d6f8f5785285e691f989b472b}
+      \strng{authorfullhash}{2909048d6f8f5785285e691f989b472b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Programming phase-field modeling}
+      \field{year}{2017}
+    \endentry
+    \entry{provatas2011phase}{book}{}
+      \name{author}{2}{}{%
+        {{hash=0cb0d28754a69a44de94fd1ebf24a2dd}{%
+           family={Provatas},
+           familyi={P\bibinitperiod},
+           given={Nikolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7f1c034f14b45eb2e9d47a88c950ebce}{%
+           family={Elder},
+           familyi={E\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{b0a205d81fd96ba46685ea6d35236d8f}
+      \strng{fullhash}{b0a205d81fd96ba46685ea6d35236d8f}
+      \strng{bibnamehash}{b0a205d81fd96ba46685ea6d35236d8f}
+      \strng{authorbibnamehash}{b0a205d81fd96ba46685ea6d35236d8f}
+      \strng{authornamehash}{b0a205d81fd96ba46685ea6d35236d8f}
+      \strng{authorfullhash}{b0a205d81fd96ba46685ea6d35236d8f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Phase-field methods in materials science and engineering}
+      \field{year}{2011}
+    \endentry
+    \entry{cahn1958free}{article}{}
+      \name{author}{2}{}{%
+        {{hash=52dbce452736c579ce3afd0bc41401e2}{%
+           family={Cahn},
+           familyi={C\bibinitperiod},
+           given={John\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=615753f3c0be7941ef6c9f7de03513e4}{%
+           family={Hilliard},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics}%
+      }
+      \strng{namehash}{803d7022f245ce9165424789e4bba28f}
+      \strng{fullhash}{803d7022f245ce9165424789e4bba28f}
+      \strng{bibnamehash}{803d7022f245ce9165424789e4bba28f}
+      \strng{authorbibnamehash}{803d7022f245ce9165424789e4bba28f}
+      \strng{authornamehash}{803d7022f245ce9165424789e4bba28f}
+      \strng{authorfullhash}{803d7022f245ce9165424789e4bba28f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of chemical physics}
+      \field{number}{2}
+      \field{title}{Free energy of a nonuniform system. I. Interfacial free energy}
+      \field{volume}{28}
+      \field{year}{1958}
+      \field{pages}{258\bibrangedash 267}
+      \range{pages}{10}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
